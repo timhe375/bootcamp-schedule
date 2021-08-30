@@ -1,6 +1,6 @@
 # bootcamp-schedule
 
-Hier kommen alle täglichen neuen Updates hinein
+Daily Updates
 
 today I learned
  - GitHub
