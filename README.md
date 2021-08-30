@@ -4,6 +4,6 @@ Daily Updates
 
 today I learned
  - GitHub
-  -Issue
-  -Markdown
+     -Issue
+     -Markdown
  - Visual Studio Code
